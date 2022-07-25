@@ -10,3 +10,12 @@ POST http://localhost:3000/api/v1/stores
 //admin login 
 
 POST http://localhost:3000/api/v1/admin
+
+
+//post a new data 
+
+POST http://localhost:3000/api/v1/data/
+
+//get new data 
+
+GET http://localhost:3000/api/v1/data/
