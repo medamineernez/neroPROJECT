@@ -5,3 +5,8 @@ GET http://localhost:3000/api/v1/stores
 
 //add another spot 
 POST http://localhost:3000/api/v1/stores 
+
+
+//admin login 
+
+POST http://localhost:3000/api/v1/admin
